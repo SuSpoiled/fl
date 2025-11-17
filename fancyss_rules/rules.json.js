@@ -1,9 +1,9 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2025-11-16 03:48",
-    "md5": "2e4c7378cd2e4cd52166fd27dd0c21f8",
-    "count": "32847"
+    "date": "2025-11-18 03:48",
+    "md5": "185141e0546eafb91ceba94162da3f7a",
+    "count": "32849"
   },
   "chnroute": {
     "name": "chnroute.txt",
@@ -25,10 +25,10 @@
   },
   "chnroute3": {
     "name": "chnroute3.txt",
-    "date": "2025-11-17 03:48",
-    "md5": "47d89f5083a23622f7de14ee54a06281",
+    "date": "2025-11-18 03:48",
+    "md5": "68915fd734b133ad7a14be4caa2c2eb8",
     "count": "4200",
-    "count_ip": "286405934",
+    "count_ip": "286405422",
     "source": "apnic",
     "url": "http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
   },
