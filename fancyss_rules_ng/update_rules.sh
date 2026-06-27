@@ -200,6 +200,7 @@ update_gfwlist() {
 	local raw1="${tmpdir}/gfwlist_b64.txt"
 	local list1="${tmpdir}/gfwlist_1.txt"
 	local list2="${tmpdir}/gfwlist_2.txt"
+	local list3="${tmpdir}/gfwlist_3.txt"
 	local merged="${tmpdir}/gfwlist_merged.txt"
 
 	curl_download "https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt" "$raw1" "download gfwlist (Loukky)"
@@ -230,7 +231,9 @@ for d in sorted(seen):
 PY
 
 	curl_download "https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt" "$list2" "download gfwlist extra (pexcn)"
-    curl_download "https://github.com/Johnshall//cn-blocked-domain/raw/release/domains.txt" "$list3" "download b extra (pexcn)"
+	
+    curl_download "https://github.com/Johnshall//cn-blocked-domain/raw/release/domains.txt" "$list3" "download b extra (b)"
+	
 	cat "$list1" "$list2" "$list3" \
 		| grep -Ev "([0-9]{1,3}[\\.]){3}[0-9]{1,3}" \
 		| sed '/^$/d' \
