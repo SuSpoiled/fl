@@ -240,11 +240,11 @@ PY
 		| sort -u >"$merged"
 
 	# asus asd detect these domains
-	sed -i '/hasi\./d' "$merged"
-	sed -i '/v2ex/d' "$merged"
-	sed -i '/apple\.com/d' "$merged"
-	sed -i '/m-team/d' "$merged"
-	sed -i '/windowsupdate/d' "$merged"
+	#sed -i '/hasi\./d' "$merged"
+	#sed -i '/v2ex/d' "$merged"
+	#sed -i '/apple\.com/d' "$merged"
+	#sed -i '/m-team/d' "$merged"
+	#sed -i '/windowsupdate/d' "$merged"
 
 	update_generated_gz_rule "gfwlist" "gfwlist.gz" "$merged"
 	rm -f "${CURR_PATH}/gfwlist.txt" || true
