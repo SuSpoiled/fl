@@ -7,5 +7,5 @@
 **方案 A：直连 GitHub（推荐）**
 
 ```sh
-sed -i 's/^URL_MAIN.*/URL_MAIN="https:\/\/raw.githubusercontent.com\/suspoiled\/fl\/3.0\/fancyss_rules_ng"/g' /koolshare/scripts/ss_rule_update.sh
+sed -i 's/^URL_MAIN.*/URL_MAIN="https:\/\/raw.githubusercontent.com\/SuSpoiled\/fl\/3.0\/fancyss_rules_ng"/g' /koolshare/scripts/ss_rule_update.sh
 ```
