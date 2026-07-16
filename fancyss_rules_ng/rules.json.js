@@ -1,9 +1,9 @@
 {
   "gfwlist": {
     "name": "gfwlist.gz",
-    "date": "2026-07-16 04:40",
-    "md5": "d767f82558a98aae8ab6189ccc523b52",
-    "count": "31626"
+    "date": "2026-07-17 04:33",
+    "md5": "484f9c192177e8381bc466db079ff514",
+    "count": "31606"
   },
   "chnlist": {
     "name": "chnlist.gz",
@@ -29,9 +29,9 @@
   },
   "adslist": {
     "name": "adslist.gz",
-    "date": "2026-07-14 04:41",
-    "md5": "ea09f761ddfe5b2f18d8694dcf0d6311",
-    "count": "107032",
+    "date": "2026-07-17 04:33",
+    "md5": "2eafc79481c2421b590f70c50c116f30",
+    "count": "107583",
     "source": "anti-ad",
     "url": "https://anti-ad.net/domains.txt"
   },
