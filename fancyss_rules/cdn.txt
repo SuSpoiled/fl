@@ -9583,7 +9583,6 @@ a0770.com
 a0bi.com
 a0c77.com
 a0d73230f9d52dfb.com
-a1.mzstatic.com
 a135.net
 a142b5e7511011.beer
 a1789.com
@@ -9591,18 +9590,15 @@ a18.ltd
 a1891cc2258a919b.com
 a1a22678d1019.beer
 a1coin.xyz
-a2.mzstatic.com
 a21fs.com
 a29e2657018e645b.com
 a2dongman.com
 a2e1c81dce0fd3ce.com
-a3.mzstatic.com
 a30437f3510292.beer
 a32bd427dd.skin
 a335cb802c120705.com
 a33a8c8c81011.beer
 a3p4.net
-a4.mzstatic.com
 a40dc409e2ea86b1.com
 a44aeaeac1016.beer
 a45e4f5fd10272.beer
@@ -9611,7 +9607,6 @@ a490cce2411032.beer
 a4da96ae511032.beer
 a4s6.com
 a4xvv2g18l.com
-a5.mzstatic.com
 a5.net
 a5380a8e41016.beer
 a5399.com
@@ -10013,8 +10008,6 @@ adbrkwai.com
 adbvllc.cfd
 adbxb.com
 adcdn.com
-adcdownload.apple.com
-adcdownload.apple.com.akadns.net
 adcomeon.com
 adcotechina.com
 addaad.com
@@ -11774,8 +11767,6 @@ amo9.com
 amoe.cc
 amonxu.com
 amoydxmed.com
-amp-api-updates.apps.apple.com
-amp-api.media.apple.com
 amp-intl.com
 ampcn.com
 amperobots.com
@@ -12462,7 +12453,6 @@ app-h5.dji.com
 app-measurement-cn.com
 app-measurement.com
 app-router.com
-app-site-association.cdn-apple.com
 app-static.com
 app-store.dji.com
 app001.com
@@ -12514,8 +12504,6 @@ appjiagu.com
 appkaifa.com
 appkefu.com
 applausefz.com
-appldnld.apple.com
-appldnld.g.aaplimg.com
 apple-corer.com
 apple110.com
 apple114.com
@@ -12524,7 +12512,6 @@ apple4.us
 apple523.club
 apple886.com
 applebl.com
-appleid.cdn-apple.com
 applejp.cloud
 applemei.com
 applepopo.com
@@ -12546,8 +12533,6 @@ appotronics.com
 appqv.com
 appracle.com
 approvebook.com
-apps.apple.com
-apps.mzstatic.com
 apps121.com
 apps5.oingo.com
 appscan.io
@@ -13746,7 +13731,6 @@ baf566dfd40e3413.com
 bafangjuhe.com
 bafangwy.com
 baful.net
-bag-cdn.itunes-apple.com.akadns.net
 bagb2b.com
 bagevent.com
 bags163.com
@@ -19446,10 +19430,6 @@ cdn-build.com
 cdn-build.net
 cdn-cba.com
 cdn-cdn.net
-cdn-cn1.apple-mapkit.com
-cdn-cn2.apple-mapkit.com
-cdn-cn3.apple-mapkit.com
-cdn-cn4.apple-mapkit.com
 cdn-gw-dv.vip
 cdn-hz.skypixel.com
 cdn-light-cms-cn.skypixel.com
@@ -19457,7 +19437,6 @@ cdn-speed.com
 cdn-uc.cc
 cdn-usa.skypixel.com
 cdn-v.com
-cdn.apple-mapkit.com
 cdn.fun
 cdn.me
 cdn.samsung.com
@@ -19466,25 +19445,21 @@ cdn.show
 cdn.vin
 cdn000.com
 cdn08.com
-cdn1.apple-mapkit.com
 cdn1.vip
 cdn1008.com
 cdn1218.com
 cdn123.cc
 cdn16.com
-cdn2.apple-mapkit.com
 cdn20.com
 cdn20.info
 cdn20.org
 cdn2000.com
 cdn2020.com
-cdn3.apple-mapkit.com
 cdn30.com
 cdn30.info
 cdn30.org
 cdn3344.com
 cdn35.com
-cdn4.apple-mapkit.com
 cdn40.com
 cdn56.com
 cdn78.xyz
@@ -19646,11 +19621,7 @@ cdrqxh.com
 cdrsigc.com
 cdrtvu.com
 cdruzhu.com
-cds-cdn.v.aaplimg.com
 cds-seal.com
-cds.apple.com
-cds.apple.com.akadns.net
-cdsassets.apple.com
 cdsb.com
 cdsb.mobi
 cdscdscdn.com
@@ -19921,7 +19892,6 @@ cersign.com
 cersp.com
 certicn.com
 certified-timestamp.globalsign.com
-certs.apple.com
 ces-transaction.com
 cese2.com
 cesfn.com
@@ -22857,19 +22827,7 @@ cl-kongtiao.com
 cl-power.com
 cl0438.com
 cl0579.com
-cl1-cdn.origin-apple.com.akadns.net
-cl1.apple.com
-cl2-cn.apple.com
-cl2.apple.com
-cl2.apple.com.edgekey.net.globalredir.akadns.net
 cl2009.com
-cl3-cdn.origin-apple.com.akadns.net
-cl3.apple.com
-cl4-cdn.origin-apple.com.akadns.net
-cl4-cn.apple.com
-cl4.apple.com
-cl5-cdn.origin-apple.com.akadns.net
-cl5.apple.com
 cl868.com
 clady.cc
 claiks.com
@@ -22944,8 +22902,6 @@ clicksun.net
 clickwifi.net
 clidone.com
 client51.com
-clientflow.apple.com
-clientflow.apple.com.akadns.net
 clientservices.googleapis.com
 clifford-hospital.org
 cliffordtrading.com
@@ -23415,7 +23371,6 @@ cn-roofexpert.com
 cn-school.com
 cn-sdf.com
 cn-shine.com
-cn-smp-paymentservices.apple.com
 cn-soft.com
 cn-tf.com
 cn-tn.com
@@ -24609,8 +24564,6 @@ cone-x.com
 conele.com
 conergas.net
 conew.com
-configuration.apple.com
-configuration.apple.com.akadns.net
 confluxrpc.com
 conghua.com
 congmiqq.com
@@ -25707,7 +25660,6 @@ crinductance.com
 crisydney.com
 crjfw.com
 crl.alphassl.com
-crl.apple.com
 crl.globalsign.com
 crl.globalsign.net
 crl.kaspersky.com
@@ -26012,8 +25964,6 @@ cssywgy.com
 csszone.net
 cst119.com
 cst6.com
-cstat.apple.com
-cstat.cdn-apple.com
 cstccloud.org
 cstcloud.net
 cstcq.com
@@ -27799,7 +27749,6 @@ dczcy.com
 dczkj.com
 dczy168.com
 dd-advisor.com
-dd-cdn.origin-apple.com.akadns.net
 dd-gz.com
 dd-img.com
 dd.ma
@@ -28064,7 +28013,6 @@ dehuisk.com
 dehuiyuan.com
 deifgs.com
 deipei.com
-dejavu.apple.com
 dejiart.com
 dejiplaza.com
 dekeego.com
@@ -28244,7 +28192,6 @@ devexel.com
 devexpresscn.com
 devicewell.com
 devil0629.com
-devimages-cdn.apple.com
 devio.org
 devops-dev.com
 devotiongroup.com
@@ -28252,7 +28199,6 @@ devourad.com
 devsapp.net
 devsiki.com
 devskyr.com
-devstreaming-cdn.apple.com
 devui.design
 devusa.djicdn.com
 devweixin.com
@@ -29995,7 +29941,6 @@ downjoy.com
 downke.com
 downkr.com
 downkuai.com
-download.developer.apple.com
 download.microsoft.com
 download.mlcc.google.com
 download.tensorflow.google.com
@@ -32997,7 +32942,6 @@ expdiy.com
 expdns.net
 expec-tech.com
 expensiveg.com
-experiments.apple.com
 expingworld.com
 expiredns.net
 expirenotification.com
@@ -38963,8 +38907,6 @@ gryw666.com
 grzmz.com
 grzq.com
 gs-cdn.com
-gs-loc-cn.apple.com
-gs-loc.apple.com
 gs090.com
 gs12122.com
 gs1cn.org
@@ -39025,24 +38967,7 @@ gsmpers.com
 gsmuban.com
 gsnhcg.com
 gsnytz.com
-gsp10-ssl-cn.ls.apple.com
-gsp11-cn.ls.apple.com
-gsp12-cn.ls.apple.com
-gsp13-cn.ls.apple.com
-gsp4-cn.ls.apple.com
-gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
-gsp5-cn.ls.apple.com
-gsp85-cn-ssl.ls.apple.com
 gspaceteam.com
-gspe11-2-cn-ssl.ls.apple.com
-gspe19-2-cn-ssl.ls-apple.com.akadns.net
-gspe19-2-cn-ssl.ls.apple.com
-gspe19-cn-ssl.ls.apple.com
-gspe19-cn.ls-apple.com.akadns.net
-gspe19-cn.ls.apple.com
-gspe21-ssl.ls.apple.com
-gspe35-ssl.ls.apple.com
-gspe79-cn-ssl.ls.apple.com
 gspst.com
 gspt.com
 gspxonline.com
@@ -39789,9 +39714,6 @@ guzhenm.com
 guzhongtrade.com
 guzuci.com
 guzwiayz.com
-guzzoni-apple-com.v.aaplimg.com
-guzzoni.apple.com
-guzzoni.smoot.apple.com
 gvg-redsun.com
 gvgoo.com
 gvi-tech.com
@@ -49132,7 +49054,6 @@ iaapc.org
 iacstar.com
 iaddata.com
 iadmob.com
-iadsdk.apple.com
 iadtracker.com
 iaeac.org
 iagefans.com
@@ -50290,7 +50211,6 @@ imageplusplus.net
 imagepy.org
 imagerjt.com
 images-cache.com
-images.apple.com.edgekey.net.globalredir.akadns.net
 images3.tripcdn.com
 imagestoryai.com
 imageter.com
@@ -50667,14 +50587,6 @@ inibiru.com
 inicoapp.com
 inidc.net
 ininin.com
-init-kt.apple.com
-init-p01md-lb.push-apple.com.akadns.net
-init-p01md.apple.com
-init-p01st-lb.push-apple.com.akadns.net
-init-p01st.push.apple.com
-init-s01st-lb.push-apple.com.akadns.net
-init-s01st.push.apple.com
-init.ess.apple.com
 initaa.com
 initac.com
 initaf.com
@@ -50929,7 +50841,6 @@ iorca.net
 ios114.com
 ios222.com
 ios98.com
-iosapps.itunes.g.aaplimg.com
 iosask.com
 ioser.fun
 iosfengwo.com
@@ -51012,7 +50923,6 @@ ipapark.com
 ipason.com
 ipay.so
 ipaylinks.com
-ipcdn.apple.com
 ipcelou.com
 ipchaxun.com
 ipchaxun.net
@@ -51044,8 +50954,6 @@ ipfsbit.com
 ipgoal.com
 ipgpassport.lenovo.com
 ipguishu.com
-iphone-ld.apple.com
-iphone-ld.origin-apple.com.akadns.net
 iphonediule.com
 ipin.com
 ipingyao.com
@@ -51221,19 +51129,8 @@ iruixing.com
 irunner.mobi
 iryoucai.com
 is-programmer.com
-is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
-is1-ssl.mzstatic.com
-is1.mzstatic.com
-is2-ssl.mzstatic.com
-is2.mzstatic.com
-is3-ssl.mzstatic.com
-is3.mzstatic.com
 is36.com
-is4-ssl.mzstatic.com
-is4.mzstatic.com
 is404.com
-is5-ssl.mzstatic.com
-is5.mzstatic.com
 is686.com
 isa-hsse.com
 isa1751.com
@@ -51617,9 +51514,6 @@ ittribalwo.com
 ituad.com
 ituchong.com
 ituite.com
-itunes-apple.com.akadns.net
-itunes.apple.com
-itunesconnect.apple.com
 iturco.com
 itutu.tv
 ituun.com
@@ -64467,7 +64361,6 @@ menpad.com
 menpiao.com
 menpiaotuangou.com
 menshiny.com
-mensura.cdn-apple.com
 mentamob.com
 mentorsc.com
 mentrends.com
@@ -64509,9 +64402,6 @@ mesowe.com
 mesresearch.com
 messawith.com
 messecloud.com
-mesu-cdn.apple.com.akadns.net
-mesu-china.apple.com.akadns.net
-mesu.apple.com
 meta-stone.com
 meta-verse.co
 meta-xuantan.com
@@ -65438,7 +65328,6 @@ mkzhan.com
 mkzhan.net
 mkzhou.com
 mkzoo.com
-ml.cdn-apple.com
 mlabc.com
 mlairport.com
 mlayt14.com
@@ -66386,7 +66275,6 @@ musestudio.net
 musetransfer.com
 mushafa.net
 mushroommarket.net
-music.apple.com
 music4x.com
 musicchina-expo.com
 musiccia.com
@@ -69799,11 +69687,9 @@ ocngs.globalsign.com
 ocpuritech.com
 ocr.lenovo.com
 ocsjs.com
-ocsp.apple.com
 ocsp.globalsign.com
 ocsp.pki.goog
 ocsp.us.cdnetworks.com
-ocsp2.apple.com
 ocsp2.globalsign.com
 ocssaas.com
 oct-asia.com
@@ -70533,8 +70419,6 @@ osbzr.com
 osc.cool
 oscaches.com
 oscarzhoud.com
-oscdn.apple.com
-oscdn.origin-apple.com.akadns.net
 oschina.com
 oschina.io
 oschina.net
@@ -70584,7 +70468,6 @@ osw3c.com
 oswdj.com
 oswhy.com
 osx.cx
-osxapps.itunes.g.aaplimg.com
 osxxy.com
 osyunwei.com
 ota-cn-sdc.blurdev.com
@@ -71002,7 +70885,6 @@ panasiashipping.com
 panasonic-door.com
 panawincn.com
 panbrake.com
-pancake.apple.com
 panchinasports.com
 panchip.com
 panchuang.net
@@ -71259,7 +71141,6 @@ paympay.com
 paynews.net
 paypaytech.com
 pb89.com
-pba0.apple.com
 pbaohza.com
 pbaohzc.com
 pbc-dcep.com
@@ -72668,7 +72549,6 @@ pro001.com
 pro400.com
 proangela.com
 proav-china.com
-probe.siri.apple.com
 procar.cc
 processon.com
 procetpoeinjector.com
@@ -72677,7 +72557,6 @@ prociss.com
 procivi.net
 prod-controlbe.floonet.goog
 prod-databe.floonet.goog
-prod-support.apple-support.akadns.net
 prod.databe.floonet.goog
 prodcam.cc
 prodcutmodel.com
@@ -72846,7 +72725,6 @@ pubghelper.com
 pubgkam.com
 pubgtool.com
 pubgzh-cn.vip
-publicassets.cdn-apple.com
 publiccms.com
 publicdns.cc
 pubmed007.com
@@ -77463,7 +77341,6 @@ s-ts.net
 s-xsenyuan.com
 s-yue.com
 s-zone.com
-s.mzstatic.com
 s.xyz
 s0599.com
 s0nnet.com
@@ -79022,9 +78899,6 @@ seebon.com
 seebug.org
 seecmedia.net
 seed-china.com
-seed-sequoia.siri.apple.com
-seed-swallow.siri.apple.com
-seed.siri.apple.com
 seedasdan.org
 seedchina.com
 seeddsp.com
@@ -79228,7 +79102,6 @@ septwolves-group.com
 septwolves.com
 sepumps.com
 sequ.biz
-sequoia.apple.com
 sequoiacap.com
 sequoiadb.com
 sereypath.com
@@ -79487,7 +79360,6 @@ sh-nemoto.com
 sh-oca.com
 sh-pet.com
 sh-pn.com
-sh-pod2-smp-device.apple.com
 sh-pp.com
 sh-printing.com
 sh-prosperity.com
@@ -79951,7 +79823,6 @@ shaxian.biz
 shayugg.com
 shayujizhang.com
 shayuweb.com
-shazam-insights.cdn-apple.com
 shazc.com
 shb.ltd
 shbangde.com
@@ -82691,7 +82562,6 @@ smoothgroup.cc
 smoreroll.com
 smovie168.com
 smowo.com
-smp-device-content.apple.com
 smpg888.com
 smppw.com
 smq.ltd
@@ -83874,7 +83744,6 @@ stat-nba.com
 static.cdnetworks.com
 static.djicdn.com
 static.eprintsw.com
-static.gc.apple.com
 static.tripcdn.com
 static163.net
 staticaa.com
@@ -83980,8 +83849,6 @@ stocke.com
 stockhn.com
 stockradar.net
 stockren.com
-stocks-sparkline-lb.apple.com.akadns.net
-stocks-sparkline.apple.com
 stockstar.com
 stockwei.com
 stofund.org
@@ -84002,12 +83869,7 @@ stonexp.com
 stor-age.com
 stor-helper.com
 storcezon.com
-store.apple.com
-store.apple.com.edgekey.net
-store.apple.com.edgekey.net.globalredir.akadns.net
 store.dji.com
-store.storeimages.apple.com.akadns.net
-store.storeimages.cdn-apple.com
 store12.com
 storeapi.net
 storecorefulfillment.download.prss.microsoft.com
@@ -84586,9 +84448,7 @@ supplierlist.com
 supplygw.com
 supplywater.com
 support-chat.dji.com
-support-china.apple-support.akadns.net
 support-cn.samsung.com
-support.apple.com
 support.dji.com
 support.globalsign.com
 supreme-oe.com
@@ -84725,8 +84585,6 @@ sw163.com
 sw2008.com
 sw996.com
 swakopuranium.com
-swallow-apple-com.v.aaplimg.com
-swallow.apple.com
 swan366.com
 swanchemical.com
 swang8.com
@@ -84738,16 +84596,10 @@ swat-js.com
 swatou.com
 swaywm.com
 swbbsc.com
-swcatalog-cdn.apple.com.akadns.net
-swcatalog.apple.com
-swcdn.apple.com
-swcdn.g.aaplimg.com
 swceb.com
 swchina.org
 swckc.com
 swdcmg.com
-swdist.apple.com
-swdist.apple.com.akadns.net
 swdyz.com
 sweet-data.com
 sweetalkos.com
@@ -84808,8 +84660,6 @@ swpubar.com
 swq242xc54.com
 swrjzxw.com
 swsbw.com
-swscan-cdn.apple.com.akadns.net
-swscan.apple.com
 swsegroup.com
 swskj.com
 swsm.net
@@ -85144,7 +84994,6 @@ sylaryun.com
 sylincom.com
 sylixos.com
 sylnyx.com
-sylvan.apple.com
 symama.com
 symarathon.com
 symbiote.work
@@ -88379,7 +88228,6 @@ tj-fch.com
 tj-guangxin.com
 tj-kingdee.com
 tj-model.com
-tj-pod1-smp-device.apple.com
 tj-un.com
 tj0573.com
 tj20.com
@@ -91141,9 +90989,6 @@ upd.kaspersky.com
 update.crashlytics.com
 update.googleapis.com
 update8.com
-updates-http.cdn-apple.com
-updates-http.cdn-apple.com.akadns.net
-updates.cdn-apple.com
 updeals.com
 updf.com
 updownstream.xyz
@@ -91566,8 +91411,6 @@ vaicdn.com
 vailogchina.com
 vakku.com
 valiant-cn.com
-valid.apple.com
-valid.origin-apple.com.akadns.net
 valinbl.com
 valinresources.com
 valogin.com
@@ -93496,13 +93339,8 @@ wearesellers.com
 wearosbox.com
 weartrends.com
 weasing.com
-weather-data.apple.com
-weather-data.apple.com.akadns.net
-weather-map.apple.com
-weather-map2.apple.com
 weathercn.com
 weatherdt.com
-weatherkit.apple.com
 weatherol.com
 weavatar.com
 weavi.com
@@ -96389,8 +96227,6 @@ www-googletagmanager.l.google.com
 www-jabuank-co-jp.net
 www-v1.dji.com
 www.alphassl.com
-www.apple.com
-www.apple.com.edgekey.net.globalredir.akadns.net
 www.cdnetworks.com
 www.cg
 www.com.my
@@ -99901,7 +99737,6 @@ xoyo.com
 xoyobox.com
 xoyocdn.com
 xoyq.net
-xp.apple.com
 xp3366.com
 xp535.com
 xp6000.com
