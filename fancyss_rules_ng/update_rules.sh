@@ -232,9 +232,9 @@ PY
 
 	curl_download "https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt" "$list2" "download gfwlist extra (pexcn)"
 	
-    curl_download "https://raw.githubusercontent.com/Johnshall/cn-blocked-domain/release/domains.txt" "$list3" "download b extra (b)"
+#    curl_download "https://raw.githubusercontent.com/Johnshall/cn-blocked-domain/release/domains.txt" "$list3" "download b extra (b)"
 	
-	cat "$list1" "$list2" "$list3" \
+	cat "$list1" "$list2" \
 		| grep -Ev "([0-9]{1,3}[\\.]){3}[0-9]{1,3}" \
 		| sed '/^$/d' \
 		| sort -u >"$merged"
