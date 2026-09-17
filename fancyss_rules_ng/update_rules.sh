@@ -198,6 +198,7 @@ update_generated_gz_rule() {
 update_gfwlist() {
 	local tmpdir="$1"
 	local raw1="${tmpdir}/gfwlist_b64.txt"
+	local raw3="${tmpdir}/gfwlist_b643.txt"
 	local list1="${tmpdir}/gfwlist_1.txt"
 	local list2="${tmpdir}/gfwlist_2.txt"
 	local list3="${tmpdir}/gfwlist_3.txt"
@@ -232,9 +233,34 @@ PY
 
 	curl_download "https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt" "$list2" "download gfwlist extra (pexcn)"
 	
-#    curl_download "https://raw.githubusercontent.com/Johnshall/cn-blocked-domain/release/domains.txt" "$list3" "download b extra (b)"
-	
-	cat "$list1" "$list2" \
+    curl_download "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt" "$raw3" "download b extra (b)"
+	python3 - "$raw3" >"$list3" <<'PY'
+import base64, re, sys
+
+raw = open(sys.argv[1], "rb").read()
+try:
+    decoded = base64.b64decode(raw)
+    text = decoded.decode("utf-8", "ignore")
+    if not text.lstrip().startswith("[AutoProxy"):
+        text = raw.decode("utf-8", "ignore")
+except Exception:
+    text = raw.decode("utf-8", "ignore")
+
+comment_re = re.compile(r"^\!|\[|^@@|^\d+\.\d+\.\d+\.\d+")
+domain_re = re.compile(r"([\w\-\_]+\.[\w\.\-\_]+)[\/\*]*")
+seen = set()
+for line in text.splitlines():
+    if comment_re.search(line):
+        continue
+    m = domain_re.search(line)
+    if not m:
+        continue
+    seen.add(m.group(1))
+for d in sorted(seen):
+    sys.stdout.write(d + "\n")
+PY
+
+	cat "$list1" "$list2" "$list3" \
 		| grep -Ev "([0-9]{1,3}[\\.]){3}[0-9]{1,3}" \
 		| sed '/^$/d' \
 		| sort -u >"$merged"
