@@ -20,19 +20,12 @@ get_gfwlist(){
 	# 0. prepare
 	rm -rf ${CURR_PATH}/gfwlist_1.txt
 	rm -rf ${CURR_PATH}/gfwlist_2.txt
-	rm -rf ${CURR_PATH}/gfwlist_3.txt
 	rm -rf ${CURR_PATH}/gfwlist_merge.txt
 
 	# 1. download
 	${CURR_PATH}/update_gfwlist.py ${CURR_PATH}/gfwlist_1.txt >/dev/null 2>&1
 	if [ ! -f "${CURR_PATH}/gfwlist_1.txt" ]; then
 		echo "gfwlist download faild!"
-		exit 1
-	fi
-	
-	${CURR_PATH}/update_gfwlist2.py ${CURR_PATH}/gfwlist_3.txt >/dev/null 2>&1
-	if [ ! -f "${CURR_PATH}/gfwlist_3.txt" ]; then
-		echo "gfwlist3 download faild!"
 		exit 1
 	fi
 
