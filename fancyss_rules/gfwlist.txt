@@ -1,6 +1,7 @@
 000aa.com
 000webhost.com
 0rz.tw
+1-apple.com.tw
 1000giri.net
 10beasts.net
 10conditionsoflove.com
@@ -3564,6 +3565,7 @@ lvv2.com
 lyfhk.net
 lzjscript.com
 lzmtnews.org
+m-team.cc
 m.me
 m.moegirl.org
 m8008.com
@@ -4010,6 +4012,7 @@ newyorker.com
 newyorktimes.com
 nexon.com
 next11.co.jp
+nextapple.com
 nextapple.tw
 nextcli.com
 nextdigital.com.hk
@@ -4520,6 +4523,7 @@ potatso.com
 potvpn.com
 pourquoi.tw
 power.com
+powerapple.com
 powercx.com
 pp.ru
 ppy.sh
@@ -5949,6 +5953,7 @@ v.recipes
 v2.help
 v2.hysteria.network
 v2board.com
+v2ex.com
 v2fly.org
 v2ray.com
 v2raya.org
