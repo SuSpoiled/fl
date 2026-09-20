@@ -20,6 +20,7 @@ get_gfwlist(){
 	# 0. prepare
 	rm -rf ${CURR_PATH}/gfwlist_1.txt
 	rm -rf ${CURR_PATH}/gfwlist_2.txt
+	rm -rf ${CURR_PATH}/gfwlist_3.txt
 	rm -rf ${CURR_PATH}/gfwlist_merge.txt
 
 	# 1. download
@@ -28,14 +29,16 @@ get_gfwlist(){
 		echo "gfwlist download faild!"
 		exit 1
 	fi
-
-	curl -4sk https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt >${CURR_PATH}/gfwlist_2.txt
-
+	
 	${CURR_PATH}/update_gfwlist2.py ${CURR_PATH}/gfwlist_3.txt >/dev/null 2>&1
 	if [ ! -f "${CURR_PATH}/gfwlist_3.txt" ]; then
 		echo "gfwlist3 download faild!"
 		exit 1
 	fi
+
+	curl -4sk https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt >${CURR_PATH}/gfwlist_2.txt
+
+
 
 	# merge list
 	cat ${CURR_PATH}/gfwlist_1.txt ${CURR_PATH}/gfwlist_2.txt ${CURR_PATH}/gfwlist_3.txt ${CURR_PATH}/gfwlist_ext.txt | grep -Ev "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | sort -u >${CURR_PATH}/gfwlist_merge.txt
