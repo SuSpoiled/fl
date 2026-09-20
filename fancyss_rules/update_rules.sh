@@ -31,15 +31,21 @@ get_gfwlist(){
 
 	curl -4sk https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt >${CURR_PATH}/gfwlist_2.txt
 
+	${CURR_PATH}/update_gfwlist2.py ${CURR_PATH}/gfwlist_3.txt >/dev/null 2>&1
+	if [ ! -f "${CURR_PATH}/gfwlist_3.txt" ]; then
+		echo "gfwlist3 download faild!"
+		exit 1
+	fi
+
 	# merge list
-	cat ${CURR_PATH}/gfwlist_1.txt ${CURR_PATH}/gfwlist_2.txt ${CURR_PATH}/gfwlist_ext.txt | grep -Ev "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | sort -u >${CURR_PATH}/gfwlist_merge.txt
+	cat ${CURR_PATH}/gfwlist_1.txt ${CURR_PATH}/gfwlist_2.txt ${CURR_PATH}/gfwlist_3.txt ${CURR_PATH}/gfwlist_ext.txt | grep -Ev "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | sort -u >${CURR_PATH}/gfwlist_merge.txt
 
 	# modify, asus asd detect this domain
-	sed -i '/hasi\./d' ${CURR_PATH}/gfwlist_merge.txt
-	sed -i '/v2ex/d' ${CURR_PATH}/gfwlist_merge.txt
-	sed -i '/apple\.com/d' ${CURR_PATH}/gfwlist_merge.txt
-	sed -i '/m-team/d' ${CURR_PATH}/gfwlist_merge.txt
-	sed -i '/windowsupdate/d' ${CURR_PATH}/gfwlist_merge.txt
+	#sed -i '/hasi\./d' ${CURR_PATH}/gfwlist_merge.txt
+	#sed -i '/v2ex/d' ${CURR_PATH}/gfwlist_merge.txt
+	#sed -i '/apple\.com/d' ${CURR_PATH}/gfwlist_merge.txt
+	#sed -i '/m-team/d' ${CURR_PATH}/gfwlist_merge.txt
+	#sed -i '/windowsupdate/d' ${CURR_PATH}/gfwlist_merge.txt
 	
 	# 5. compare
 	local md5sum1=$(md5sum ${CURR_PATH}/gfwlist_merge.txt | awk '{print $1}')
