@@ -851,7 +851,6 @@ brill.com
 brizzly.com
 broadbook.com
 broadpressinc.com
-brockbbs.com
 brookings.edu
 brucewang.net
 brutaltgp.com
@@ -875,7 +874,6 @@ btku.me
 btku.org
 btloader.com
 btspread.com
-btsynckeys.com
 budaedu.org
 buddhistchannel.tv
 buffered.com
@@ -1110,6 +1108,7 @@ chinalawandpolicy.com
 chinalawtranslate.com
 chinamule.com
 chinanewscenter.com
+chinanewsx.com
 chinapost.com.tw
 chinapress.com.my
 chinarightsia.org
@@ -1961,7 +1960,6 @@ fireofliberty.info
 fireofliberty.org
 firetweet.io
 firstfivefollowers.com
-firstory.io
 firstpost.com
 firstrade.com
 fish.audio
@@ -2032,7 +2030,6 @@ freebeacon.com
 freebearblog.org
 freebrowser.org
 freechina.net
-freechina.news
 freechinaweibo.com
 freeddns.com
 freeddns.org
@@ -2146,7 +2143,6 @@ futuholdings.com
 futuinc.com
 futuniuniu.com
 futunn.com
-futurechinaforum.org
 futuremessage.org
 futustatic.com
 fututrade.com
@@ -2215,7 +2211,6 @@ gcpnews.com
 gcr.io
 gdaily.org
 gdbt.net
-gdzf.org
 geek-art.net
 gekikame.com
 gelbooru.com
@@ -3107,6 +3102,7 @@ invidio.us
 inxian.com
 io.google
 iopenmall.tw
+ipaddress.my
 ipdefenseforum.com
 ipfire.org
 ipfs.4everland.io
@@ -3152,7 +3148,6 @@ issuu.com
 istef.info
 istiqlalhewer.com
 istockphoto.com
-isunaffairs.com
 isuntv.com
 isupportuyghurs.org
 italiatibet.org
@@ -3860,7 +3855,6 @@ musixmatch.com
 muslimvideo.com
 muzi.com
 muzi.net
-muzmi.org
 muzu.tv
 mvg.jp
 my-formosa.com
@@ -4076,6 +4070,7 @@ nordstromimage.com
 nordstrommedia.com
 nordstromrack.com
 nordvpn.com
+nordwangluo.com
 nos.nl
 nostr.build
 nostr.land
@@ -4568,7 +4563,6 @@ proxlet.com
 proxomitron.info
 proxpn.com
 proxy.org
-proxy1.xyz
 proxyanonimo.es
 proxydns.com
 proxynetwork.org.uk
@@ -4607,6 +4601,7 @@ pureconcepts.net
 pureinsight.org
 purepdf.com
 purevpn.com
+purevpn.com.tw
 purplelotus.org
 purpose.nike.com
 pursuestar.com
@@ -5967,6 +5962,7 @@ vanpeople.com
 vansky.com
 vaticannews.va
 vatn.org
+vava8.com
 vcf-online.org
 vcfbuilder.org
 vct.news
@@ -6148,7 +6144,6 @@ waymo.com
 waze.com
 wbrks.com
 wd.bible
-wdf5.com
 wealth.com.tw
 wearehairy.com
 wearn.com
@@ -6358,6 +6353,7 @@ www.websnapr.com
 www.xicons.org
 www.zensur.freerk.com
 www1.biz
+www3.nhk.or.jp
 wxw.cat
 wxw.moe
 x-art.com
@@ -6383,7 +6379,6 @@ xcritic.com
 xda-developers.com
 xdaforums.com
 xerotica.com
-xfiles.to
 xfinity.com
 xfxssr.me
 xgmyd.com
