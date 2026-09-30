@@ -1,9 +1,9 @@
 {
   "gfwlist": {
     "name": "gfwlist.gz",
-    "date": "2026-09-29 07:56",
-    "md5": "09f5f0565f8fea87e4c96b6be8d59786",
-    "count": "6672"
+    "date": "2026-10-01 07:12",
+    "md5": "03d9b4093a7037cae7071c97a1c22cbf",
+    "count": "6674"
   },
   "chnlist": {
     "name": "chnlist.gz",
@@ -14,10 +14,10 @@
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-09-25 06:43",
-    "md5": "7111bfec174a736e6d8fa705181499be",
-    "count": "6891",
-    "count_ip": "357067448",
+    "date": "2026-10-01 07:12",
+    "md5": "2da239b4a6226c66338dc97a8d9ea82c",
+    "count": "6892",
+    "count_ip": "357067960",
     "source": "merged"
   },
   "chnroute6": {
