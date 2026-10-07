@@ -1201,6 +1201,7 @@ clarionproject.org
 clashyun.com
 class.tn.edu.tw
 classicalguitarblog.net
+clau.de
 claude.ai
 claude.com
 cldr.unicode.org
@@ -4389,7 +4390,6 @@ peopo.org
 percy.in
 perfect-privacy.com
 perfectgirls.net
-perfectvpn.net
 periscope.tv
 perma.cc
 perplexity.ai
@@ -4457,7 +4457,6 @@ pixelqi.com
 pixiv.net
 pixiv.org
 pixivsketch.net
-pixnet.in
 pixnet.net
 pk.com
 pki.goog
@@ -6491,7 +6490,6 @@ xxlmovies.com
 xxuz.com
 xxx.com
 xxx.xxx
-xxxfuckmom.com
 xxxx.com.au
 xxxy.info
 xxxymovies.com
@@ -6635,7 +6633,6 @@ zhangtianliang.com
 zhangzhehan.net
 zhanlve.org
 zhao.1984.city
-zhenghui.org
 zhengjian.org
 zhengwunet.org
 zhenxiang.biz
