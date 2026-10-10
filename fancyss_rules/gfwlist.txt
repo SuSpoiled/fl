@@ -43,6 +43,7 @@
 1point3acres.com
 1pondo.tv
 2-hand.info
+2.bahamut.com.tw
 2008xianzhang.info
 2021hkcharter.com
 2047.name
@@ -107,6 +108,7 @@
 64tianwang.com
 66.ca
 666kb.com
+666pool.cn
 69shu.com
 69shuba.com
 69shuba.cx
@@ -1440,6 +1442,7 @@ datacenters.google
 daum.net
 david-kilgour.com
 dawangidc.com
+daxa.cn
 daylife.com
 dazn.com
 db.tt
@@ -2131,6 +2134,7 @@ furbo.org
 furhhdl.org
 furinkan.com
 furrybar.com
+futu.cn
 futu.com
 futu.link
 futu0.com
@@ -2144,6 +2148,7 @@ futu7.com
 futu8.com
 futu9.com
 futuau.com
+futubull.cn
 futuchain.com
 futuesop.com
 futufin.com
@@ -3473,6 +3478,7 @@ lifemiles.com
 ligamx.net
 lighten.org.tw
 lighti.me
+lightnovel.cn
 lightyearvpn.com
 lih.kg
 lihkg.com
@@ -3543,6 +3549,7 @@ longbridge.sg
 longbridgeapp.com
 longbridgehk.com
 longmusic.com
+longportapp.cn
 longportapp.com
 longtermly.net
 longtoes.com
@@ -4259,6 +4266,9 @@ open-assistant.io
 open.com.hk
 open.firstory.me
 openai.com
+openapi-quote.longbridge.cn
+openapi-trade.longbridge.cn
+openapi.longbridge.cn
 openart.ai
 opencritic.com
 opendemocracy.net
@@ -4876,6 +4886,7 @@ scdaily.com
 schema.org
 schwab.co.uk
 schwab.com
+schwab.com.cn
 schwab.com.hk
 scieron.com
 sclub.com.tw
@@ -5609,6 +5620,7 @@ tibettruth.com
 tibetwrites.org
 ticket.com.tw
 tier.org.tw
+tigerbbs.cn
 tigerbbs.com
 tigerbrokers.com
 tigerbrokers.net
@@ -5962,6 +5974,7 @@ usus.cc
 utopianpal.com
 uujiasu.com
 uukanshu.com
+uupool.cn
 uvwxyz.xyz
 uwants.com
 uwants.net
@@ -6640,6 +6653,7 @@ zhao.1984.city
 zhengjian.org
 zhengwunet.org
 zhenxiang.biz
+zhijianfengyi.cn
 zhijianfengyi.com
 zhizhu.top
 zhongguo.ca
