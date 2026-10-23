@@ -16,7 +16,6 @@ UPSTREAMS = [
     ("gfwlist-by-loukky", "https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt"),
     ("pexcn", "https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt"),
     ("gfwlist", "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"),
-    ("cn-blocked-domain", "https://raw.githubusercontent.com/Loyalsoldier/cn-blocked-domain/release/domains.txt"),
 ]
 TIMEOUT = 30
 def _usage() -> None:
