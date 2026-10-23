@@ -1,9 +1,9 @@
 {
   "gfwlist": {
     "name": "gfwlist.gz",
-    "date": "2026-10-20 07:05",
-    "md5": "499b3d38b64aa7ba41a939f69d43c460",
-    "count": "6698"
+    "date": "2026-10-23 20:13",
+    "md5": "c1d1f66cfcf275c777d5eff0cbda833a",
+    "count": "6700"
   },
   "chnlist": {
     "name": "chnlist.gz",
