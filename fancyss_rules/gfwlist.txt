@@ -1247,6 +1247,7 @@ clyp.it
 cmcn.org
 cmegroup.com
 cmi.org.tw
+cmmedia.com.tw
 cmoinc.org
 cmoney.tw
 cms.gov
@@ -1635,6 +1636,7 @@ dtiblog.com
 dtic.mil
 dtku41.xyz
 dubox.com
+duck.ai
 duck.com
 duckdns.org
 duckduckgo.com
@@ -2200,11 +2202,11 @@ galaxymacau.com
 galenwu.com
 gallup.com
 galstars.net
-game735.com
 gamebase.com.tw
 gamejolt.com
 gamer.com.tw
 gamez.com.tw
+gamma.app
 gamousa.com
 ganges.com
 ganjing.com
@@ -2670,6 +2672,7 @@ greatfire.us7.list-manage.com
 greatfirevpn.com
 greatfirewall.biz
 greatfirewallofchina.org
+greenbean.media
 greenparty.org.tw
 greenpeace.com.tw
 greenpeace.org
@@ -2844,16 +2847,19 @@ hkbf.org
 hkbookcity.com
 hkchronicles.com
 hkci.org.hk
+hkcitycreation.com
 hkcmi.edu
 hkcnews.com
 hkcoc.com
 hkcoc.weather.com.hk
+hkcourtnews.com
 hkday.net
 hkdc.us
 hkdf.org
 hkej.com
 hket.com
 hkfaa.com
+hkfeature.com
 hkfront.org
 hkgalden.com
 hkgolden.com
@@ -3484,6 +3490,7 @@ libredd.it
 lidecheng.com
 lifeattiktok.com
 lifemiles.com
+lifesitenews.com
 ligamx.net
 lighten.org.tw
 lighti.me
@@ -3494,6 +3501,7 @@ lihkg.com
 like.com
 likr.tw
 lilaoshibushinilaoshi.com
+limedia.tw
 limelight.moe
 line-apps.com
 line-scdn.net
@@ -3646,6 +3654,7 @@ marxists.org
 mas.to
 mash.to
 maskedip.com
+master-insight.com
 mastodon.cloud
 mastodon.host
 mastodon.online
@@ -3839,6 +3848,7 @@ momoshop.com.tw
 mondex.org
 money-link.com.tw
 moneydj.com
+moneynet.com.tw
 monica.im
 monitorchina.org
 monocloud.me
@@ -3900,6 +3910,7 @@ muzi.net
 muzu.tv
 mvg.jp
 my-formosa.com
+my-formosa.com.tw
 my-private-network.co.uk
 my-proxy.com
 my.mail.ru
@@ -4978,6 +4989,7 @@ shafaqna.com
 shahit.biz
 shambhalasun.com
 shangfang.org
+shanghainationalparty.com
 shanxivideo.com
 shapeservices.com
 share-videos.se
@@ -5156,6 +5168,7 @@ sotwe.com
 soubory.com
 soul-plus.net
 soulcaliburhentai.net
+soulogic.com
 soundcloud.com
 soundofhope.kr
 soundofhope.org
@@ -5485,6 +5498,7 @@ thechinabeat.org
 thechinacollection.org
 thechinaproject.com
 thechinastory.org
+thecollectivehk.com
 theconversation.com
 thedalailamamovie.com
 thediplomat.com
@@ -5503,6 +5517,7 @@ theinitium.com
 theintercept.com
 thelallantop.com
 thenewslens.com
+theonlinecitizen.com
 thepiratebay.ee
 thepiratebay.org
 theporndude.com
@@ -6339,6 +6354,7 @@ wo3ttt.wordpress.com
 woeser.com
 wokar.org
 wolfax.com
+womany.net
 wombo.ai
 woolyss.com
 woopie.jp
